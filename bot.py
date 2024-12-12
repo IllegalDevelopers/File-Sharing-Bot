@@ -73,8 +73,7 @@ class Bot(Client):
 
 
 
-# Jishu Developer 
+# Illegal Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Illegal_Developer
+# Developer @Ishana_Dev_Bot
