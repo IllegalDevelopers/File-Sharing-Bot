@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "")
 
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
+DB_NAME = os.environ.get("DB_NAME", "ishana")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
@@ -95,8 +95,7 @@ def LOGGER(name: str) -> logging.Logger:
 
 
 
-# Jishu Developer 
+# Illegal Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Illegal_Developer
+# Developer @Ishana_Dev_Bot
