@@ -29,14 +29,7 @@ async def del_user(user_id: int):
 
 
 
-
-
-
-
-
-
-# Jishu Developer 
+# Illegal Developer Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Illegal_Developer
+# Developer @Ishana_Dev_Bot
