@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "27111655"))
 API_HASH = os.environ.get("API_HASH", "02b37606c933fd06c0407dcd9f99a615")
 START_PIC = os.environ.get("START_PIC", "https://envs.sh/ljF.jpg")
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6626261440 5404762133"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6626261440"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://ginichimaru091:ginichimaru@cluster0.v8phn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "cluster0")
 
